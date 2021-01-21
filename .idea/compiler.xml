@@ -7,11 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="flink-example" />
+        <module name="HotItemsAnaysis" />
+        <module name="networkflow_analysis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="flink-example" target="1.8" />
       <module name="flinkmsw" target="1.8" />
+      <module name="HotItemsAnaysis" target="1.8" />
+      <module name="networkflow_analysis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

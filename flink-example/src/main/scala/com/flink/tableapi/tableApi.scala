@@ -13,12 +13,12 @@ object tableApi {
       env.setParallelism(1)
      val tableEnv: StreamTableEnvironment = StreamTableEnvironment.create(env)
     //1.1从kafak读数据
-    tableEnv.connect(new Kafka()
-      .version("")
-        .topic("")
-          .property("","")
-    ).withFormat(new Csv())
-      .withFormat()
+//    tableEnv.connect(new Kafka()
+//      .version("")
+//        .topic("")
+//          .property("","")
+//    ).withFormat(new Csv())
+//      .withFormat()
 
 
   }

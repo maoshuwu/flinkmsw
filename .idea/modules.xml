@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HotItemsAnaysis/HotItemsAnaysis.iml" filepath="$PROJECT_DIR$/HotItemsAnaysis/HotItemsAnaysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-example/flink-example.iml" filepath="$PROJECT_DIR$/flink-example/flink-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/flinkmsw.iml" filepath="$PROJECT_DIR$/.idea/flinkmsw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networkflow_analysis/networkflow_analysis.iml" filepath="$PROJECT_DIR$/networkflow_analysis/networkflow_analysis.iml" />
     </modules>
   </component>
 </project>
